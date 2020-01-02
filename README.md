@@ -1,5 +1,4 @@
-# reactjs-localStorage
-reactjs-localStorage
+# Reactjs localStorage
 
 ---
 <h4> Thanks </h4>
